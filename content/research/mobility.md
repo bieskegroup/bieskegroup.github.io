@@ -1,0 +1,11 @@
+---
+layout: page
+title: Ion Mobility Spectrometry
+permalink: /research/mobility
+---
+
+<img src="/assets/img/drifter2.png" class="instrument" />
+
+We explore the photoisomerisation of molecular ions as they drift through gas. A packet of molecular ions is propelled by an electric field through buffer gas (helium or nitrogen). The ions' drift speed depends on their size and shape with more compact ions undergoing fewer collisions and traversing the cell more rapidly than larger, extended ions. Therefore, peaks in the arrival time distribution (ATD) can be connected with particular molecular conformations, aided by theoretical predictions of ion mobilities. We use resonant excitation of molecular ions by tuneable laser radiation to modify the ions' effective "size", through a change either in their electronic state or conformation. The laser-modifed ions interact differently with the buffer gas molecules and so arrive at the detector either earlier or later than ions that have not absorbed light. By measuring the ATD as a function of laser wavelength one can obtain a photoisomerization action spectrum of the molecular ions.
+
+The machine is essentially a conventional ion mobility spectrometer with provision for a laser beam to overlap the drifting ions coaxially or transversely. Electrosprayed ions pass through a heated transfer capillary and accumulate in the first ion funnel. An electrostatic ion gate periodically injects ion bunches into the drift section filled with low pressure nitrogen or helium gas (P=5-15 Torr) where the ions are subjected to a drift field of 40 V/cm. Following the drift region the ions are collected by a second ion funnel, before passing through a small orifice, an octopole ion guide, quadrupole mass filter, and finally being sensed by an ion detector. The ions can either be irradiated by a transverse laser beam immediately after the first ion gate or halfway through the drift region after a second ion gate (used to mobility-select bunches of ions), or coaxially in the middle section of the drift region. Irrespective of where photoexcitation occurs, a photo-induced change in ion conformation and drift mobility results in spatial and temporal separation of the photo-isomer ions from the parent ions over the remaining section of the drift region.
